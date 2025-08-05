@@ -38,5 +38,4 @@ Busco sempre evoluir minhas habilidades e criar soluções eficientes, com boa e
 ## 📌 Projetos em Destaque
 
 - [**KRW Bank**](https://github.com/caetanocarpes1/KRW-Bank) — Sistema bancário com JavaFX e backend seguro.
-- [**Blue Market**](https://github.com/caetanocarpes1/Blue-Market) — Plataforma de gestão de mercado em arquitetura SaaS.
 - [**Sistema de Doação de Sangue**](https://github.com/caetanocarpes1/Sangue) — App para facilitar agendamento e gestão de doações.

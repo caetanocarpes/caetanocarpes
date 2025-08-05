@@ -30,8 +30,8 @@ Busco sempre evoluir minhas habilidades e criar soluções eficientes, com boa e
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Caetano](https://github-readme-stats.vercel.app/api?username=caetanocarpes1&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=caetanocarpes1&layout=compact&theme=tokyonight)
+![Estatísticas do GitHub de Caetano](https://github-readme-stats.vercel.app/api?username=caetanocarpes&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=caetanocarpes&layout=compact&theme=tokyonight)
 
 ---
 

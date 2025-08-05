@@ -37,5 +37,5 @@ Busco sempre evoluir minhas habilidades e criar soluções eficientes, com boa e
 
 ## 📌 Projetos em Destaque
 
-- [**KRW Bank**](https://github.com/caetanocarpes1/KRW-Bank) — Sistema bancário com JavaFX e backend seguro.
-- [**Sistema de Doação de Sangue**](https://github.com/caetanocarpes1/Sangue) — App para facilitar agendamento e gestão de doações.
+- [**KRW Bank final**](https://github.com/caetanocarpes/krwBank-Final) — Sistema bancário com JavaFX e backend seguro.
+- [**Sistema de Doação de Sangue**](https://github.com/caetanocarpes/MyleBlood) — App para facilitar agendamento e gestão de doações.

@@ -2,7 +2,7 @@
 
 **Desenvolvedor FullStack**
 
-Me chamo **Caetano Carpes**, tenho 19 anos e sou natural de Araranguá, Santa Catarina.  
+Me chamo **Caetano Carpes**, tenho 19 anos e moro em Araranguá SC.  
 Atualmente curso **Análise e Desenvolvimento de Sistemas** na Anhanguera (início em jul/2025) e estudo programação por conta própria desde **agosto de 2024**.  
 Sou apaixonado por tecnologia e já desenvolvi diversos projetos práticos.  
 Busco sempre evoluir minhas habilidades e criar soluções eficientes, com boa experiência de uso.

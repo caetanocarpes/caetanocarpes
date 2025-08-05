@@ -4,7 +4,7 @@
 
 Me chamo **Caetano Carpes**, tenho 19 anos e sou natural de Araranguá, Santa Catarina.  
 Atualmente curso **Análise e Desenvolvimento de Sistemas** na Anhanguera (início em jul/2025) e estudo programação por conta própria desde **agosto de 2024**.  
-Sou apaixonado por tecnologia e já desenvolvi diversos projetos práticos, como sistemas bancários, plataformas de agendamento e aplicativos de mercado.  
+Sou apaixonado por tecnologia e já desenvolvi diversos projetos práticos.  
 Busco sempre evoluir minhas habilidades e criar soluções eficientes, com boa experiência de uso.
 
 ---
@@ -23,7 +23,6 @@ Busco sempre evoluir minhas habilidades e criar soluções eficientes, com boa e
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 

@@ -38,4 +38,4 @@ Busco sempre evoluir minhas habilidades e criar soluções eficientes, com boa e
 ## 📌 Projetos em Destaque
 
 - [**KRW Bank final**](https://github.com/caetanocarpes/krwBank-Final) — Sistema bancário.
-- [**Sistema de Doação de Sangue**](https://github.com/caetanocarpes/MyleBlood) — App para facilitar agendamento e gestão de doações.
+- [**Sistema de Doação de Sangue**](https://github.com/caetanocarpes/MyleBlood) — App para facilitar agendamento e gestão de doações (ainda está sendo desenvolvido 😁).

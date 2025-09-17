@@ -27,8 +27,6 @@ Busco sempre evoluir minhas habilidades e criar soluções eficientes, com boa e
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=caetanocarpes&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📌 Projetos em Destaque

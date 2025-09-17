@@ -26,11 +26,7 @@ Busco sempre evoluir minhas habilidades e criar soluções eficientes, com boa e
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub de Caetano](https://github-readme-stats.vercel.app/api?username=caetanocarpes&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=caetanocarpes&layout=compact&theme=tokyonight)
 
 ---
